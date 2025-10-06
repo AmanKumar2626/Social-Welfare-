@@ -1,7 +1,7 @@
 import React from 'react'
 import CourseCard from '../../components/Utils/CourseCard'
 import Stars from '../../components/Utils/Stars';
-import cyberCourseImage from '../../assets/cybercourse.PNG';
+import cyberCourseImage from '../../assets/cybercourse.png';
 import Headline from '../News/Headline';
 import FilterOption from '../../components/Utils/FilterOption';
 
